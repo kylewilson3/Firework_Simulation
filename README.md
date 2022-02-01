@@ -6,9 +6,10 @@ This is my firework simulation project.
 
 
 TO WATCH VIDEO - 
- If you do not want to run the project or are having trouble running it then I attached a video of me using it as well as explaining how to run it (I also attached video to the michigan portfolio submission)
-1. Open the folder labeled: video_example
-2. Open firework_video_example.mp4
+ If you do not want to run the project or are having trouble running it then I attached a video of me using it as well as explaining how to run it
+1. Click on file called: firework_video_example.mov
+2. Press "Download" to download the file called firework_video_example.mov
+3. Watch and enjoy!
 
 
 
@@ -43,6 +44,13 @@ After pressing enter the program should launch
 
 
  
-
+FIREWORK SIMULATION FUNCTIONALITIES
+1. Uses plenty of trigonometry to determine x and y velocities of firework, smoke trail, and particle dispersion
+2. Uses random math to make every firework unique
+3. Uses physics and elasticity calculations to simulate collision, gravity and momentum
+4. Three different firework types
+5. Color, angle, and launch power settings
+6. Firework show option
+7. And more!
 
 
