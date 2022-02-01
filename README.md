@@ -5,7 +5,7 @@ This is my firework simulation project.
 
 
 
-TO WATCH VIDEO: - 
+TO WATCH VIDEO: 
  If you do not want to run the project or are having trouble running it then I attached a video of me using it as well as explaining how to run it
 1. Click on file called: firework_video_example.mov
 2. Press "Download" to download the file called firework_video_example.mov
