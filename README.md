@@ -5,7 +5,7 @@ This is my firework simulation project.
 
 
 
-TO WATCH VIDEO - 
+TO WATCH VIDEO: - 
  If you do not want to run the project or are having trouble running it then I attached a video of me using it as well as explaining how to run it
 1. Click on file called: firework_video_example.mov
 2. Press "Download" to download the file called firework_video_example.mov
@@ -19,7 +19,7 @@ TO ACCESS THE ACTUAL CODE:
 
 
 
-TO PLAY THE FIREWORK SIMULATION (ON MAC)
+TO PLAY THE FIREWORK SIMULATION (ON MAC):
 1. Open the folders in this order: out -> artifacts -> Animation_jar
 2. Click on Animation.jar
 3. Press "Download" to download the file called Animation.jar
@@ -32,7 +32,7 @@ After pressing enter the program should launch
 
 
 
-TO PLAY THE FIREWORK SIMULATION (ON WINDOWS)
+TO PLAY THE FIREWORK SIMULATION (ON WINDOWS):
 1. Open the folders in this order: out -> artifacts -> Animation_jar
 2. Click on Animation.jar
 3. Press "Download" to download the file called Animation.jar
@@ -44,7 +44,7 @@ After pressing enter the program should launch
 
 
  
-FIREWORK SIMULATION FUNCTIONALITIES
+FIREWORK SIMULATION FUNCTIONALITIES:
 1. Uses plenty of trigonometry to determine x and y velocities of firework, smoke trail, and particle dispersion
 2. Uses random math to make every firework unique
 3. Uses physics and elasticity calculations to simulate collision, gravity and momentum
